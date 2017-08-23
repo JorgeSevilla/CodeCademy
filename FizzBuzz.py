@@ -12,3 +12,6 @@ for x in range(1, 100):
         print x, "Buzz"  # En caso múltipo de 5 se imprime x para saber número
     else:
         print x
+
+
+
